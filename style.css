@@ -29,6 +29,7 @@ a:hover {
 .one {
   transition-property: background-color;
   transition-duration: 2s; 
+  animation: scaleUp 400ms ease 200ms; 
 }
 
 .two {
